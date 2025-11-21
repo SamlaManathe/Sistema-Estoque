@@ -1,0 +1,31 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários / de cache
+*.tmp
+tmp/
+*.bak
+*.swp
+
+# IDEs / Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de banco temporários
+*.sql
+*.sqlite
+
+# Arquivos de configuração sensíveis (não versionar credenciais)
+config.php
+.env
+
+# Pastas comuns que não precisam ir no Git
+node_modules/
+
+# Dump do XAMPP / servidores locais
+xampp/
