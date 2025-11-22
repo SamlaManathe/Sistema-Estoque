@@ -3,7 +3,7 @@
 Aplicação de um Sistema de Estoque para o projeto da cadeira de Programação Web - Segunda - Manhã
 
 **Você pode ver o vídeo de demonstração aqui:**  
-[Link do vídeo no YouTube](COLE_AQUI_O_LINK_DO_VIDEO)
+[Link do vídeo no YouTube](https://youtu.be/nGbaIN5E7so?si=rk2dOWucHICLcHFb)
 
 ## Descrição  
 Este projeto é um sistema web simples desenvolvido em PHP com banco de dados MySQL, para gerenciar:  
